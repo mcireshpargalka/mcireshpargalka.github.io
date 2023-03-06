@@ -1,2 +1,0 @@
-# mcireshpargalka.github.io
-documentation
